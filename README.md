@@ -1,7 +1,11 @@
-# :wave: Hello!
+## :wave: Hello!
+
+---
 
 ### About Me
 My name is Isaac Joffe and I am currently in my second year studying Computer Engineering at the University of Alberta in Edmonton, Alberta, Canada. You can find me on LinkedIn [www.linkedin.com/in/isaacjoffe](here).
+
+---
 
 ### :hammer_and_wrench: Languages and Frameworks
 <div>
@@ -13,9 +17,9 @@ My name is Isaac Joffe and I am currently in my second year studying Computer En
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="50" height="50"/>
 </div>
 
+---
+
 ### :fire: GitHub Stats
 [![Isaac's GitHub stats](https://github-readme-stats.vercel.app/api?username=ijoffe)](https://github.com/ijoffe-readme-stats)
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ijoffe&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ijoffe)](https://github.com/ijoffe/github-readme-stats)
