@@ -8,6 +8,7 @@ This GitHub profile is where I show off some of my personal and course-related p
 
 What follows is a non-exhaustive list of the main projects I have completed alongside a brief description of each.
 
+* **[Abstract Reasoning with VSAs](https://github.com/ijoffe/ARC-VSA-2025)**: code for my main graduate research project, published as an arXiv preprint [here]().
 * **[Computer Vision for Beam Analysis](https://github.com/mqp2259/CV4BeamAnalysis)**: code for my main undergraduate research project, published as a peer-reviewed journal article [here](https://www.mdpi.com/1424-8220/24/9/2923) and available as a web application [here](https://mecsimcalc.com/app/8307937/beam_app).
 * **[Abstract Scene Decomposition](https://github.com/ijoffe/AbstractSceneDecomposition)**: code to re-implement Google DeepMind's complex MONet model and the accompanying report, completed as a research course project for "CS 679: Neural Networks" in Winter 2025 at UWaterloo.
 * **[Affective Prisoner's Dilemma](https://github.com/ijoffe/AffectivePrisonersDilemma)**: code to perform experiments on the use of emotional agents in the iterated prisoner's dilemma and the accompanying paper, completed as a research course project for "CS 886: Advanced Topics in AI (Affective Computing)" in Fall 2024 at UWaterloo.
